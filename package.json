@@ -15,7 +15,7 @@
 	},
   "dependencies": {
     "hash": ">=0.2.0",
-    "findit": ">=0.1.2",
+    "findit": "0.1.2",
     "async": ">=0.1.16",
     "vargs": ">=0.1.0"
   }
